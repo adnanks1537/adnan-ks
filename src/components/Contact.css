@@ -1,0 +1,33 @@
+.contact-info {
+    padding: 30px;
+    background: #111; /* Dark background */
+    border-radius: 10px;
+    margin-bottom: 20px;
+    color: #E6E6E6; /* Light white text */
+}
+
+.contact-info h2 {
+    color: #FF0000; /* Red heading */
+    border-bottom: 2px solid #FF0000; /* Red underline */
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.contact-info a {
+    color: #FF0000; /* Red links */
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+    .contact-info p {
+        font-size: 1em;
+    }
+}

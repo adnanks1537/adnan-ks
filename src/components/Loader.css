@@ -1,0 +1,42 @@
+#loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #000; /* Dark background */
+}
+
+.loader-wrapper {
+    text-align: center;
+}
+
+.loading-text {
+    color: #FF0000; /* Red text */
+    font-size: 3em;
+    margin-bottom: 20px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.progress-bar {
+    width: 80%;
+    background: #333; /* Dark background */
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 0 auto;
+    border: 2px solid #FF0000; /* Red border */
+}
+
+.progress {
+    height: 30px;
+    width: 0;
+    background: #FF0000; /* Red progress */
+    border-radius: 10px;
+    transition: width 0.3s;
+}
+
+.percentage {
+    color: #E6E6E6; /* Light white text */
+    font-size: 2em;
+    margin-top: 20px;
+}

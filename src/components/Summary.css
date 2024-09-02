@@ -1,0 +1,25 @@
+.summary {
+    padding: 30px;
+    background: #111; /* Dark background */
+    border-radius: 10px;
+    margin-bottom: 20px;
+    color: #E6E6E6; /* Light white text */
+}
+
+.summary h2 {
+    color: #FF0000; /* Red heading */
+    border-bottom: 2px solid #FF0000; /* Red underline */
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.summary p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+@media (max-width: 600px) {
+    .summary p {
+        font-size: 1em;
+    }
+}
