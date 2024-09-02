@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adnan-portfolio/static/css/main.66a11667.css",
+    "main.js": "/adnan-portfolio/static/js/main.cabd7957.js",
+    "static/js/453.acca0757.chunk.js": "/adnan-portfolio/static/js/453.acca0757.chunk.js",
+    "index.html": "/adnan-portfolio/index.html",
+    "main.66a11667.css.map": "/adnan-portfolio/static/css/main.66a11667.css.map",
+    "main.cabd7957.js.map": "/adnan-portfolio/static/js/main.cabd7957.js.map",
+    "453.acca0757.chunk.js.map": "/adnan-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a11667.css",
+    "static/js/main.cabd7957.js"
+  ]
+}
